@@ -96,7 +96,7 @@ export default function Home() {
   return (
     <div className="h-screen bg-gray-900 text-white p-4">
       {/* Bannière en haut de la page */}
-      <div className="bg-white text-white py-2 px-4 flex items-center justify-center mb-4 rounded shadow-lg">
+      <div className="bg-red-600 text-white py-2 px-4 flex items-center justify-center mb-4 rounded shadow-lg">
         <FaExclamationTriangle className="mr-2" />
         <span>Travail en cours / Work in progress</span>
       </div>
